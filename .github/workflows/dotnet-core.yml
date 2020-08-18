@@ -34,4 +34,4 @@ jobs:
         dotnet pack --configuration Release
         echo 'ls'
         ls
-        dotnet nuget push "bin/Release/PackageHostingDemo.1.0.0.nupkg" --source "github"
+        dotnet nuget push "bin/Release/HostPackageDemo.1.0.0.nupkg" --source "github"
