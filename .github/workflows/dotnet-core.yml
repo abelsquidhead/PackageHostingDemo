@@ -30,6 +30,6 @@ jobs:
 
     - name: Publish to GitHub Packages
       run: |
-        dotnet nuget add source https://nuget.pkg.github.com/abelsquidhead/index.json -n github -u abelsquidhead -p GH_TOKEN [&*xkK0V#UgCM]
-        dotnet pack --configuration Release]
+        dotnet nuget add source https://nuget.pkg.github.com/abelsquidhead/index.json -n github -u abelsquidhead -p GH_TOKEN [${{ secrets.GITHUB_TOKEN }}]
+        dotnet pack --configuration Release
         dotnet nuget push "bin/Release/PackageHostingDemo.1.0.0.nupkg" --source "github"
