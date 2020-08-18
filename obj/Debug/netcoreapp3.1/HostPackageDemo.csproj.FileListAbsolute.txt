@@ -1,0 +1,9 @@
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\bin\Debug\netcoreapp3.1\HostPackageDemo.deps.json
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\bin\Debug\netcoreapp3.1\HostPackageDemo.dll
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\bin\Debug\netcoreapp3.1\HostPackageDemo.pdb
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\obj\Debug\netcoreapp3.1\HostPackageDemo.csprojAssemblyReference.cache
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\obj\Debug\netcoreapp3.1\HostPackageDemo.AssemblyInfoInputs.cache
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\obj\Debug\netcoreapp3.1\HostPackageDemo.AssemblyInfo.cs
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\obj\Debug\netcoreapp3.1\HostPackageDemo.csproj.CoreCompileInputs.cache
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\obj\Debug\netcoreapp3.1\HostPackageDemo.dll
+C:\Users\abel\Source\repos\HostPackageDemo\HostPackageDemo\obj\Debug\netcoreapp3.1\HostPackageDemo.pdb
