@@ -3,8 +3,8 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <OutputType>Library</OutputType>
-    <PackageId>Example.PackageName</PackageId>
-    <Version>1.0.1</Version>
+    <PackageId>HostPackageDemoLib</PackageId>
+    <Version>1.0.2</Version>
     <Authors>Abel</Authors>
     <Company>abelsquidhead</Company>
     <PackageDescription>This package for ...!</PackageDescription>
