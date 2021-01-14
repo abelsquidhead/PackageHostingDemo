@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-<PropertyGroup>
+  <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <OutputType>Library</OutputType>
     <PackageId>Example.PackageName</PackageId>
@@ -9,6 +9,10 @@
     <Company>abelsquidhead</Company>
     <PackageDescription>This package for ...!</PackageDescription>
     <RepositoryUrl>
-      https://github.com/abelsquidhead/Abelsquidhead.PackageDemo</RepositoryUrl>
+      https://github.com/abelsquidhead/PackageHostingDemo
+    </RepositoryUrl>
+    <RepositoryType>
+      git
+    </RepositoryType>
   </PropertyGroup>
 </Project>
