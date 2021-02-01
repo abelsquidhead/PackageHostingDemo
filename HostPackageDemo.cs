@@ -6,9 +6,7 @@ namespace HostPackageDemo
     {
         public int Add(int a, int b)
         {
-// change 1
             return a + b;
         }
     }
 }
-// change 2
